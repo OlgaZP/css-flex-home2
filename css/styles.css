@@ -47,6 +47,14 @@ header p {
     align-items: center;
 }
 
+.about_section {
+    padding: 50px;
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
 footer {
     height: 10vh;
     color: white;
